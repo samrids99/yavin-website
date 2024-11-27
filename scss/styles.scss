@@ -20,6 +20,11 @@
     width: 500px;
 }
 
+.details2 .decoration-star {
+    right: -200px;
+    width: 500px;
+}
+
 .header .decoration-star2 {
     top:30px;
     right: -100px;
@@ -67,6 +72,19 @@
 
     .header .img-container {
         margin-top: 30px;
+    }
+
+    .services .col-md-4 {
+        border-bottom: 1px #ccc solid;
+        margin: 10px 0;
+    }
+
+    .details2 {
+        margin-top: 20px !important;
+    }
+
+    .details2 .decoration-star {
+        top: 300px;
     }
 }
 
